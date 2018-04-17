@@ -11,3 +11,6 @@ A simple service to download and filter Facebook App's chat logs
 ### Usage
 - Add necessary info to `main.py`
 - Run the script
+
+### Credits
+This service is mostly based on [eisenjulian](https://github.com/eisenjulian/)'s work, specifically his [fb-page-chat-download](https://github.com/eisenjulian/fb-page-chat-download) repo.
